@@ -56,3 +56,7 @@ input[type=submit]:hover {
 .footer:hover {
   color: red;
 }
+
+.social-icon img:hover{
+        background-color: #70CFD4;
+}
