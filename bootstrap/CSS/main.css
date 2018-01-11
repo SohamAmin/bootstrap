@@ -6,12 +6,12 @@ footer {
   color: #ccc;
 }
 
-body {
+body,a {
   font-family: 'Impact', 'Charcoal', sans-serif;
   font-size: 20px;    
 }
 
-p {
+h1,h2 {
     font-family: "Times New Roman", Times, serif;
 }
 
